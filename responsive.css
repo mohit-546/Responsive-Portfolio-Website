@@ -11,6 +11,9 @@ html, body {
 	background: #000000;
 	color: #fff;
 }
+.Pic{
+	filter:drop-shadow(1px 1px 20px yellow);
+}
 .container {
 	width: 90%;
 	max-width: 1100px;
